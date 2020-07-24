@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Visible (unset)</title>
+	<meta http-equiv=content-type content="text/html; charset=UTF8">
+</head>
+<body>
+The title of this page changes when the window is made visible or hidden.
+<br><a href=http://stackoverflow.com/a/19519701/263525>Code here</a>. 
+
+<script>
+	
+// "librairie" de gestion de la visibilité
+//  var visible = vis(); // donne l'état courant
+//  vis(function(){});   // définit un handler pour les changements de visibilité
+var vis = (function(){
+	var stateKey, eventKey, keys = {
+		hidden: "visibilitychange",
+		webkitHidden: "webkitvisibilitychange",
+		mozHidden: "mozvisibilitychange",
+		msHidden: "msvisibilitychange"
+	};
+	for (stateKey in keys) {
+		if (stateKey in document) {
+			eventKey = keys[stateKey];
+			break;
+		}
+	}
+	return function(c) {
+		if (c) {
+			document.addEventListener(eventKey, c);
+			//document.addEventListener("blur", c);
+			//document.addEventListener("focus", c);
+		}
+		return !document[stateKey];
+	}
+})();
+
+vis(function(){
+	document.title = vis() ? 'Visible' : 'Not visible';
+	console.log(new Date, 'visible ?', vis());
+});
+
+// to set the initial state
+document.title = vis() ? 'Visible' : 'Not visible';
+
+</script>
+</body>
+</html>

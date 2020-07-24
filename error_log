@@ -1,0 +1,44 @@
+[02-Feb-2019 12:53:30 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare db_connect() (previously declared in /home/iqbalzainon/myezgo.com/dashboard/lib/LibDatabase.php:3) in /home/iqbalzainon/myezgo.com/dashboard/lib/LibDatabase.php on line 3
+[02-Feb-2019 12:53:44 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare db_connect() (previously declared in /home/iqbalzainon/myezgo.com/dashboard/lib/LibDatabase.php:3) in /home/iqbalzainon/myezgo.com/dashboard/lib/LibDatabase.php on line 3
+[02-Feb-2019 12:53:51 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare db_connect() (previously declared in /home/iqbalzainon/myezgo.com/dashboard/lib/LibDatabase.php:3) in /home/iqbalzainon/myezgo.com/dashboard/lib/LibDatabase.php on line 3
+[02-Feb-2019 12:53:55 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare db_connect() (previously declared in /home/iqbalzainon/myezgo.com/dashboard/lib/LibDatabase.php:3) in /home/iqbalzainon/myezgo.com/dashboard/lib/LibDatabase.php on line 3
+[02-Feb-2019 12:56:17 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare db_connect() (previously declared in /home/iqbalzainon/myezgo.com/dashboard/lib/LibDatabase.php:3) in /home/iqbalzainon/myezgo.com/dashboard/lib/LibDatabase.php on line 3
+[02-Feb-2019 12:56:31 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare db_connect() (previously declared in /home/iqbalzainon/myezgo.com/dashboard/lib/LibDatabase.php:3) in /home/iqbalzainon/myezgo.com/dashboard/lib/LibDatabase.php on line 3
+[02-Feb-2019 12:57:19 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare db_connect() (previously declared in /home/iqbalzainon/myezgo.com/dashboard/lib/LibDatabase.php:3) in /home/iqbalzainon/myezgo.com/dashboard/lib/LibDatabase.php on line 3
+[02-Feb-2019 12:57:27 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare db_connect() (previously declared in /home/iqbalzainon/myezgo.com/dashboard/lib/LibDatabase.php:3) in /home/iqbalzainon/myezgo.com/dashboard/lib/LibDatabase.php on line 3
+[02-Feb-2019 19:06:26 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare db_connect() (previously declared in /home/iqbalzainon/myezgo.com/dashboard/lib/LibDatabase.php:3) in /home/iqbalzainon/myezgo.com/dashboard/lib/LibDatabase.php on line 3
+[03-Feb-2019 12:58:47 Asia/Kuala_Lumpur] PHP Notice:  Undefined offset: 1 in /home/iqbalzainon/myezgo.com/Facebook/Http/GraphRawResponse.php on line 108
+[03-Feb-2019 12:58:48 Asia/Kuala_Lumpur] PHP Notice:  Undefined offset: 1 in /home/iqbalzainon/myezgo.com/Facebook/Http/GraphRawResponse.php on line 108
+[03-Feb-2019 13:51:47 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare db_connect() (previously declared in /home/iqbalzainon/myezgo.com/dashboard/lib/LibDatabase.php:3) in /home/iqbalzainon/myezgo.com/dashboard/lib/LibDatabase.php on line 3
+[03-Feb-2019 13:54:15 Asia/Kuala_Lumpur] PHP Notice:  Undefined property: Facebook\Exceptions\FacebookSDKException::$getMessage in /home/iqbalzainon/myezgo.com/fb-callback.php on line 21
+[03-Feb-2019 17:53:03 Asia/Kuala_Lumpur] PHP Notice:  Undefined offset: 1 in /home/iqbalzainon/myezgo.com/Facebook/Http/GraphRawResponse.php on line 108
+[03-Feb-2019 17:53:04 Asia/Kuala_Lumpur] PHP Notice:  Undefined offset: 1 in /home/iqbalzainon/myezgo.com/Facebook/Http/GraphRawResponse.php on line 108
+[03-Feb-2019 21:44:24 Asia/Kuala_Lumpur] PHP Notice:  Undefined offset: 1 in /home/iqbalzainon/myezgo.com/Facebook/Http/GraphRawResponse.php on line 108
+[03-Feb-2019 21:44:24 Asia/Kuala_Lumpur] PHP Notice:  Undefined offset: 1 in /home/iqbalzainon/myezgo.com/Facebook/Http/GraphRawResponse.php on line 108
+[04-Feb-2019 06:14:13 Asia/Kuala_Lumpur] PHP Notice:  Undefined offset: 1 in /home/iqbalzainon/myezgo.com/Facebook/Http/GraphRawResponse.php on line 108
+[04-Feb-2019 06:14:13 Asia/Kuala_Lumpur] PHP Notice:  Undefined offset: 1 in /home/iqbalzainon/myezgo.com/Facebook/Http/GraphRawResponse.php on line 108
+[04-Feb-2019 14:16:22 Asia/Kuala_Lumpur] PHP Warning:  date_diff() expects parameter 1 to be DateTimeInterface, boolean given in /home/iqbalzainon/myezgo.com/dashboard/lib/LibFunction.php on line 848
+[04-Feb-2019 14:16:22 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function format() on boolean in /home/iqbalzainon/myezgo.com/dashboard/lib/LibFunction.php on line 850
+[04-Feb-2019 14:27:48 Asia/Kuala_Lumpur] PHP Warning:  date_diff() expects parameter 1 to be DateTimeInterface, boolean given in /home/iqbalzainon/myezgo.com/dashboard/lib/LibFunction.php on line 848
+[04-Feb-2019 14:27:48 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function format() on boolean in /home/iqbalzainon/myezgo.com/dashboard/lib/LibFunction.php on line 850
+[04-Feb-2019 15:51:16 Asia/Kuala_Lumpur] PHP Notice:  Undefined property: Facebook\Exceptions\FacebookSDKException::$getMessage in /home/iqbalzainon/myezgo.com/fb-callback.php on line 21
+[04-Feb-2019 15:52:12 Asia/Kuala_Lumpur] PHP Notice:  Undefined property: Facebook\Exceptions\FacebookSDKException::$getMessage in /home/iqbalzainon/myezgo.com/fb-callback.php on line 21
+[05-Feb-2019 07:04:09 Asia/Kuala_Lumpur] PHP Notice:  Undefined offset: 1 in /home/iqbalzainon/myezgo.com/Facebook/Http/GraphRawResponse.php on line 108
+[05-Feb-2019 07:04:10 Asia/Kuala_Lumpur] PHP Notice:  Undefined offset: 1 in /home/iqbalzainon/myezgo.com/Facebook/Http/GraphRawResponse.php on line 108
+[05-Feb-2019 09:48:27 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare db_connect() (previously declared in /home/iqbalzainon/myezgo.com/dashboard/lib/LibDatabase.php:3) in /home/iqbalzainon/myezgo.com/dashboard/lib/LibDatabase.php on line 3
+[06-Feb-2019 09:15:07 Asia/Kuala_Lumpur] PHP Notice:  Undefined offset: 1 in /home/iqbalzainon/myezgo.com/Facebook/Http/GraphRawResponse.php on line 108
+[06-Feb-2019 09:15:08 Asia/Kuala_Lumpur] PHP Notice:  Undefined offset: 1 in /home/iqbalzainon/myezgo.com/Facebook/Http/GraphRawResponse.php on line 108
+[06-Feb-2019 09:15:31 Asia/Kuala_Lumpur] PHP Notice:  Undefined property: Facebook\Exceptions\FacebookSDKException::$getMessage in /home/iqbalzainon/myezgo.com/fb-callback.php on line 21
+[07-Feb-2019 10:18:04 Asia/Kuala_Lumpur] PHP Notice:  Undefined offset: 1 in /home/iqbalzainon/myezgo.com/Facebook/Http/GraphRawResponse.php on line 108
+[07-Feb-2019 10:18:05 Asia/Kuala_Lumpur] PHP Notice:  Undefined offset: 1 in /home/iqbalzainon/myezgo.com/Facebook/Http/GraphRawResponse.php on line 108
+[07-Feb-2019 10:21:25 Asia/Kuala_Lumpur] PHP Notice:  Undefined offset: 1 in /home/iqbalzainon/myezgo.com/Facebook/Http/GraphRawResponse.php on line 108
+[07-Feb-2019 10:21:25 Asia/Kuala_Lumpur] PHP Notice:  Undefined offset: 1 in /home/iqbalzainon/myezgo.com/Facebook/Http/GraphRawResponse.php on line 108
+[07-Feb-2019 10:22:10 Asia/Kuala_Lumpur] PHP Notice:  Undefined property: Facebook\Exceptions\FacebookSDKException::$getMessage in /home/iqbalzainon/myezgo.com/fb-callback.php on line 21
+[07-Feb-2019 10:26:18 Asia/Kuala_Lumpur] PHP Fatal error:  Cannot redeclare db_connect() (previously declared in /home/iqbalzainon/myezgo.com/dashboard/lib/LibDatabase.php:3) in /home/iqbalzainon/myezgo.com/dashboard/lib/LibDatabase.php on line 3
+[07-Feb-2019 15:18:46 Asia/Kuala_Lumpur] PHP Warning:  date_diff() expects parameter 1 to be DateTimeInterface, boolean given in /home/iqbalzainon/myezgo.com/dashboard/lib/LibFunction.php on line 848
+[07-Feb-2019 15:18:46 Asia/Kuala_Lumpur] PHP Fatal error:  Call to a member function format() on boolean in /home/iqbalzainon/myezgo.com/dashboard/lib/LibFunction.php on line 850
+[10-Feb-2019 11:42:13 Asia/Kuala_Lumpur] PHP Notice:  Undefined offset: 1 in /home/iqbalzainon/myezgo.com/Facebook/Http/GraphRawResponse.php on line 108
+[10-Feb-2019 11:42:13 Asia/Kuala_Lumpur] PHP Notice:  Undefined offset: 1 in /home/iqbalzainon/myezgo.com/Facebook/Http/GraphRawResponse.php on line 108
+[11-Feb-2019 07:41:00 Asia/Kuala_Lumpur] PHP Notice:  Undefined offset: 1 in /home/iqbalzainon/myezgo.com/Facebook/Http/GraphRawResponse.php on line 108
+[11-Feb-2019 07:41:01 Asia/Kuala_Lumpur] PHP Notice:  Undefined offset: 1 in /home/iqbalzainon/myezgo.com/Facebook/Http/GraphRawResponse.php on line 108
+[11-Feb-2019 07:41:22 Asia/Kuala_Lumpur] PHP Notice:  Undefined property: Facebook\Exceptions\FacebookSDKException::$getMessage in /home/iqbalzainon/myezgo.com/fb-callback.php on line 21
